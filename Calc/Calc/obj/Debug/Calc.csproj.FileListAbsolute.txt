@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\james\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\james\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\james\source\repos\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\james\source\repos\Calc\Calc\obj\Debug\Calc.pdb
+E:\Calc\Calc\bin\Debug\Calc.exe.config
+E:\Calc\Calc\bin\Debug\Calc.exe
+E:\Calc\Calc\bin\Debug\Calc.pdb
+E:\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+E:\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+E:\Calc\Calc\obj\Debug\Calc.exe
+E:\Calc\Calc\obj\Debug\Calc.pdb

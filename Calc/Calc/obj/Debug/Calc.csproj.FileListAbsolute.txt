@@ -12,3 +12,10 @@ E:\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
 E:\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
 E:\Calc\Calc\obj\Debug\Calc.exe
 E:\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\KYLEL\source\repos\Actual Projects\Calc\Calc\obj\Debug\Calc.pdb

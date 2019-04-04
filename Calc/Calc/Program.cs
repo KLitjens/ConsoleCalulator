@@ -47,8 +47,8 @@ namespace Calc
                     Console.WriteLine(result);
                     break;
             }
-            Console.WriteLine("Press Esc to close, or any other key to start again");
-            Main();
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
         }
 
  
